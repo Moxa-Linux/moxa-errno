@@ -1,0 +1,15 @@
+Source: moxa-errno
+Priority: required
+Maintainer: Ken CJ Chou <KenCJ.Chou@moxa.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Section: libdevel
+Homepage: https://www.moxa.com/
+
+Package: libmoxa-errno-dev
+Architecture: all
+Depends: ${misc:Depends}
+Description: Moxa error numbers - development files
+ Moxa defines exclusive error numbers for Moxa libraries.
+ It works with other Moxa library codes, and is useful
+ for checking the result of executing an API.

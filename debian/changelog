@@ -1,0 +1,5 @@
+moxa-errno (1.0.0+deb9) stretch; urgency=low
+
+  * Initial release.
+
+ -- Ken CJ Chou <KenCJ.Chou@moxa.com>  Fri, 16 Mar 2018 15:40:00 +0800
